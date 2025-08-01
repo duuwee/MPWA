@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'mpwa/wa',
-        'pretty_version' => '8.5.1',
-        'version' => '8.5.1.0',
-        'reference' => NULL,
+        'pretty_version' => '9.6.1',
+        'version' => '9.6.1.0',
+        'reference' => null,
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -617,9 +617,9 @@
             'dev_requirement' => false,
         ),
         'mpwa/wa' => array(
-            'pretty_version' => '8.5.1',
-            'version' => '8.5.1.0',
-            'reference' => NULL,
+            'pretty_version' => '9.6.1',
+            'version' => '9.6.1.0',
+            'reference' => null,
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
